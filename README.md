@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gzbotii
-- 🌱 I’m currently learning Python  🐍
+- 🌱 I’m currently learning Python 🐍 and Vue
 
 
 <!---

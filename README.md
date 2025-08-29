@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gzbotii
-- 🌱 I’m currently learning Vue, CSS and Python
+		👋 Hi, I’m @gzbotii
+		🌱 I’m currently working with React – occasionally with Vue, and dabbling a bit in Python
 
 
 <!---
